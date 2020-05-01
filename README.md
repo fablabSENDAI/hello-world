@@ -1,2 +1,2 @@
 # hello-world
-For testing GitHub by very very beginner
+あー　Ah TEST-chu テスト中
